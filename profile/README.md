@@ -12,10 +12,16 @@
   <a href="https://github.com/snapos-distro/snapos-test/actions/workflows/build-nixos-iso-arm.yml"><img alt="ARM64 build" src="https://img.shields.io/github/actions/workflow/status/snapos-distro/snapos-test/build-nixos-iso-arm.yml?branch=main&label=ARM64%20build&logo=arm&logoColor=white"></a>
   <a href="https://nixos.org"><img alt="NixOS 26.05" src="https://img.shields.io/badge/NixOS-26.05-5277C3?logo=nixos&logoColor=white"></a>
   <a href="https://github.com/snapos-distro/SnapOS/blob/main/LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-555555"></a>
+  <a href="https://youtu.be/hVY7DnYpyjY"><img alt="Watch on YouTube" src="https://img.shields.io/badge/YouTube-Watch%20the%20video-FF0000?logo=youtube&logoColor=white"></a>
   <a href="https://www.tiktok.com/@snapos.distro"><img alt="TikTok @snapos.distro" src="https://img.shields.io/badge/TikTok-@snapos.distro-000000?logo=tiktok&logoColor=white"></a>
 </p>
 
 <p align="center"><b>The easy road to NixOS.</b></p>
+
+<p align="center">
+  <a href="https://youtu.be/hVY7DnYpyjY"><img src="https://img.youtube.com/vi/hVY7DnYpyjY/maxresdefault.jpg" alt="Watch the SnapOS video on YouTube" width="720"></a>
+  <br><sub>▶ Watch SnapOS in 50 seconds</sub>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/snapos-distro/SnapOS/main/docs/desktops.gif" alt="The four SnapOS desktops: Budgie, KDE Plasma, Xfce and Hyprland" width="720">
@@ -64,6 +70,7 @@ the very same commit, and creates a draft that is published by hand.
 <p align="center">
   <a href="https://github.com/snapos-distro/SnapOS/releases/latest"><b>Download the latest SnapOS</b></a> ·
   <a href="https://github.com/snapos-distro/SnapOS#readme">Read the guide</a> ·
+  <a href="https://youtu.be/hVY7DnYpyjY">YouTube</a> ·
   <a href="https://www.tiktok.com/@snapos.distro">TikTok</a>
 </p>
 
