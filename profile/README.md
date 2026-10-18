@@ -19,7 +19,7 @@
 <p align="center"><b>The easy road to NixOS.</b></p>
 
 <p align="center">
-  <a href="https://youtu.be/hVY7DnYpyjY"><img src="https://img.youtube.com/vi/hVY7DnYpyjY/maxresdefault.jpg" alt="Watch the SnapOS video on YouTube" width="720"></a>
+  <a href="https://youtu.be/hVY7DnYpyjY"><img src="https://img.youtube.com/vi/hVY7DnYpyjY/hqdefault.jpg" alt="Watch the SnapOS video on YouTube" width="720"></a>
   <br><sub>▶ Watch SnapOS in 50 seconds</sub>
 </p>
 
