@@ -17,6 +17,10 @@
 
 <p align="center"><b>The easy road to NixOS.</b></p>
 
+> [!IMPORTANT]
+> **Despite the name, SnapOS does not use Snap!** No Snap packages and no snapd. The name comes from the
+> alligator snapping turtle, our mascot Snappy. Programs come from Nix, with Flatpak and `.deb` files if you want them.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/snapos-distro/SnapOS/main/docs/desktops.gif" alt="The four SnapOS desktops: Budgie, KDE Plasma, Xfce and Hyprland" width="720">
 </p>
